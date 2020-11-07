@@ -1,0 +1,2 @@
+# Diabetes-Onset-Prediction
+This dataset is originally from the Diabetes and Digestive and Kidney Disorders National Institute. Based on certain diagnostic measurements used in the dataset, the purpose of the dataset is to diagnostically predict whether or not a patient has diabetes. Several limits have been imposed on the choosing of these instances from a broader database. In fact, all the patients here are women of Pima Indian descent who are at least 21 years old.
